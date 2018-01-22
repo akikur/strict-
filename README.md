@@ -1,0 +1,2 @@
+# strict-
+assignment class4
